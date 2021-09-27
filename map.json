@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"DemoDayMap.json"
+                 "value":"demo_room.json#exit_room_one"
                 }],
          "type":"tilelayer",
          "visible":true,
