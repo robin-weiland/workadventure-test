@@ -8,7 +8,7 @@ bootstrapExtra().catch(e => console.error(e));
 let currentPopup: any = undefined;
 
 WA.room.onEnterZone('info_room_one', () => {
-    currentPopup =  WA.ui.openPopup("info_room_three_popup","Go to Demo Room");
+    currentPopup =  WA.ui.openPopup("info_room_three_popup","Go to Demo Room", []);
 })
 
 WA.room.onLeaveZone('info_room_one', closePopUp)
