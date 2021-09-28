@@ -103,10 +103,10 @@
                  "y":0
                 }, 
                 {
-                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22856, 22856, 22856, 22856, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22856, 22856, 22856, 22856, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22862, 22862, 22862, 22862, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22862, 22862, 22862, 22862, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":26,
                  "id":42,
-                 "name":"exit_room_one",
+                 "name":"enter_demo_room",
                  "opacity":1,
                  "properties":[
                         {
@@ -153,7 +153,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/docs.google.com\/document\/d\/e\/2PACX-1vRhxLW23b2uLxdlvJOWSKl-eefmMwKCS6WYV5o1Zy04bZCZkyXt45o6SyUKdzsIJdIiRknSwv3u9G18\/pub?embedded=true"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -723,7 +723,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/1_Generic_Shadowless32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/1_Generic_Shadowless32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -8396,7 +8396,7 @@
         {
          "columns":16,
          "firstgid":1249,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/2_LivingRoom_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/2_LivingRoom_Shadowless_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -11766,7 +11766,7 @@
         {
          "columns":16,
          "firstgid":1969,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/3_Bathroom_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/3_Bathroom_Shadowless_32x32.png",
          "imageheight":1792,
          "imagewidth":512,
          "margin":0,
@@ -11779,7 +11779,7 @@
         {
          "columns":16,
          "firstgid":2865,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/4_Bedroom_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/4_Bedroom_Shadowless_32x32.png",
          "imageheight":3424,
          "imagewidth":512,
          "margin":0,
@@ -11792,7 +11792,7 @@
         {
          "columns":16,
          "firstgid":4577,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/5_Classroom_and_library_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/5_Classroom_and_library_Shadowless_32x32.png",
          "imageheight":1088,
          "imagewidth":512,
          "margin":0,
@@ -11805,7 +11805,7 @@
         {
          "columns":16,
          "firstgid":5121,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/6_Music_and_sport_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/6_Music_and_sport_Shadowless_32x32.png",
          "imageheight":1536,
          "imagewidth":512,
          "margin":0,
@@ -13581,7 +13581,7 @@
         {
          "columns":16,
          "firstgid":5889,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/7_Art_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/7_Art_Shadowless_32x32.png",
          "imageheight":224,
          "imagewidth":512,
          "margin":0,
@@ -13594,7 +13594,7 @@
         {
          "columns":16,
          "firstgid":6001,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/8_Gym_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/8_Gym_Shadowless_32x32.png",
          "imageheight":1056,
          "imagewidth":512,
          "margin":0,
@@ -13607,7 +13607,7 @@
         {
          "columns":16,
          "firstgid":6529,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/9_Fishing_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/9_Fishing_Shadowless_32x32.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -13620,7 +13620,7 @@
         {
          "columns":16,
          "firstgid":6961,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/11_Halloween_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/11_Halloween_Shadowless_32x32.png",
          "imageheight":1952,
          "imagewidth":512,
          "margin":0,
@@ -13633,7 +13633,7 @@
         {
          "columns":16,
          "firstgid":7937,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/12_Kitchen_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/12_Kitchen_Shadowless_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -15896,7 +15896,7 @@
         {
          "columns":16,
          "firstgid":8721,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/14_Basement_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/14_Basement_Shadowless_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -18552,7 +18552,7 @@
         {
          "columns":16,
          "firstgid":9521,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/15_Christmas_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/15_Christmas_Shadowless_32x32.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -18565,7 +18565,7 @@
         {
          "columns":16,
          "firstgid":9793,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/16_Grocery_store_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/16_Grocery_store_Shadowless_32x32.png",
          "imageheight":2496,
          "imagewidth":512,
          "margin":0,
@@ -18578,7 +18578,7 @@
         {
          "columns":16,
          "firstgid":11041,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/18_Jail_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/18_Jail_Shadowless_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -18591,7 +18591,7 @@
         {
          "columns":16,
          "firstgid":11761,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/19_Hospital_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/19_Hospital_Shadowless_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -18604,7 +18604,7 @@
         {
          "columns":16,
          "firstgid":13521,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/20_Japanese_interiors_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/20_Japanese_interiors_Shadowless_32x32.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -18617,7 +18617,7 @@
         {
          "columns":16,
          "firstgid":14033,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/21_Clothing_Store_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/21_Clothing_Store_Shadowless_32x32.png",
          "imageheight":2144,
          "imagewidth":512,
          "margin":0,
@@ -18630,7 +18630,7 @@
         {
          "columns":16,
          "firstgid":15105,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/22_Museum_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/22_Museum_Shadowless_32x32.png",
          "imageheight":3904,
          "imagewidth":512,
          "margin":0,
@@ -24527,7 +24527,7 @@
         {
          "columns":16,
          "firstgid":17057,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/23_Tevelision_and_Film_Studio_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/23_Tevelision_and_Film_Studio_Shadowless_32x32.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -24540,7 +24540,7 @@
         {
          "columns":16,
          "firstgid":17281,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/24_Ice_Cream_Shop_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/24_Ice_Cream_Shop_Shadowless_32x32.png",
          "imageheight":544,
          "imagewidth":512,
          "margin":0,
@@ -24553,7 +24553,7 @@
         {
          "columns":16,
          "firstgid":17553,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/25_Shooting_Range_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/25_Shooting_Range_Shadowless_32x32.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
@@ -24566,7 +24566,7 @@
         {
          "columns":16,
          "firstgid":17633,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/26_Condominium_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/26_Condominium_Shadowless_32x32.png",
          "imageheight":608,
          "imagewidth":512,
          "margin":0,
@@ -24579,7 +24579,7 @@
         {
          "columns":12,
          "firstgid":17937,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/10_Birthday_party_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/10_Birthday_party_Shadowless_32x32.png",
          "imageheight":224,
          "imagewidth":384,
          "margin":0,
@@ -24592,7 +24592,7 @@
         {
          "columns":6,
          "firstgid":18021,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_baseboards_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_baseboards_32x32.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -24605,7 +24605,7 @@
         {
          "columns":45,
          "firstgid":18057,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_borders_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_borders_32x32.png",
          "imageheight":320,
          "imagewidth":1440,
          "margin":0,
@@ -24618,7 +24618,7 @@
         {
          "columns":7,
          "firstgid":18507,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Floor_Connectors_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_Floor_Connectors_32x32.png",
          "imageheight":1152,
          "imagewidth":224,
          "margin":0,
@@ -24631,7 +24631,7 @@
         {
          "columns":42,
          "firstgid":18759,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Floor_Paths_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_Floor_Paths_32x32.png",
          "imageheight":384,
          "imagewidth":1344,
          "margin":0,
@@ -24644,7 +24644,7 @@
         {
          "columns":16,
          "firstgid":19263,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Floor_Shadows_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_Floor_Shadows_32x32.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
@@ -24657,7 +24657,7 @@
         {
          "columns":15,
          "firstgid":19343,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Floors_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_Floors_32x32.png",
          "imageheight":1280,
          "imagewidth":480,
          "margin":0,
@@ -24670,7 +24670,7 @@
         {
          "columns":32,
          "firstgid":19943,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Walls_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_Walls_32x32.png",
          "imageheight":1280,
          "imagewidth":1024,
          "margin":0,
@@ -24683,7 +24683,7 @@
         {
          "columns":3,
          "firstgid":21223,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/3_Animated_objects\/32x32\/spritesheets\/animated_amplifier_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Animations\/animated_amplifier_32x32.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -24819,7 +24819,7 @@
         {
          "columns":6,
          "firstgid":21229,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/3_Animated_objects\/32x32\/spritesheets\/animated_chimney_red_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Animations\/animated_chimney_red_32x32.png",
          "imageheight":96,
          "imagewidth":192,
          "margin":0,
@@ -25077,7 +25077,7 @@
         {
          "columns":36,
          "firstgid":21247,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/3_Animated_objects\/32x32\/spritesheets\/animated_cat_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Animations\/animated_cat_32x32.png",
          "imageheight":32,
          "imagewidth":1152,
          "margin":0,
@@ -26161,7 +26161,7 @@
         {
          "columns":18,
          "firstgid":21283,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/3_Animated_objects\/32x32\/spritesheets\/animated_fishmonger_fish_tank_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Animations\/animated_fishmonger_fish_tank_32x32.png",
          "imageheight":96,
          "imagewidth":576,
          "margin":0,
@@ -26817,7 +26817,7 @@
         {
          "columns":3,
          "firstgid":21337,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/3_Animated_objects\/32x32\/spritesheets\/animated_wall_candle_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Animations\/animated_wall_candle_32x32.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
@@ -26922,7 +26922,7 @@
         {
          "columns":16,
          "firstgid":21343,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/13_Conference_Hall_Shadowless_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_Shadowless_32x32\/13_Conference_Hall_Shadowless_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -26935,7 +26935,7 @@
         {
          "columns":24,
          "firstgid":21535,
-         "image":"..\/..\/Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_3d_walls_32x32.png",
+         "image":"Modern_Interiors_v41.2\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_subfiles_32x32\/Room_Builder_3d_walls_32x32.png",
          "imageheight":1760,
          "imagewidth":768,
          "margin":0,
